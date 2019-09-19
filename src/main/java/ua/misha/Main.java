@@ -11,6 +11,7 @@ public class Main {
         print2();
 
         System.out.println("Пустая строка");
+        System.out.println("Пустая строка2");
 
 
 
