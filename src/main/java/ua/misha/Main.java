@@ -10,6 +10,9 @@ public class Main {
         print1();
         print2();
 
+        System.out.println("Пустая строка");
+
+
 
     }
 }
